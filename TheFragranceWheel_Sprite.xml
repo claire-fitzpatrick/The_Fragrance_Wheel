@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="TheFragranceWheel_Sprite.png">
+	<!-- Created with Adobe Flash Professional version 14.1.0.96 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="Aromatic0000" x="0" y="0" width="73" height="73" pivotX="0" pivotY="0"/>
+	<SubTexture name="DarkBrown0000" x="73" y="0" width="73" height="73" pivotX="0" pivotY="0"/>
+	<SubTexture name="DarkPink0000" x="146" y="0" width="73" height="73" pivotX="0" pivotY="0"/>
+	<SubTexture name="ForHer0000" x="0" y="73" width="73" height="73" pivotX="0" pivotY="0"/>
+	<SubTexture name="ForHim0000" x="68" y="73" width="68" height="68" pivotX="0" pivotY="0"/>
+	<SubTexture name="Green0000" x="136" y="73" width="73" height="73" pivotX="0" pivotY="0"/>
+	<SubTexture name="LightBrown0000" x="0" y="146" width="73" height="73" pivotX="0" pivotY="0"/>
+	<SubTexture name="LightPink0000" x="73" y="146" width="73" height="73" pivotX="0" pivotY="0"/>
+	<SubTexture name="Yellow0000" x="146" y="146" width="73" height="73" pivotX="0" pivotY="0"/>
+</TextureAtlas>
