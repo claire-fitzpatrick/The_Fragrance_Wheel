@@ -171,6 +171,10 @@
 					label: "Two"
 				}, {
 					label: "Three"
+				}, {
+					label: "Four"
+				}, {
+					label: "Five"
 				}, ]);
 			tabBar.selectedIndex = 1;
 			tabBar.addEventListener(Event.CHANGE, tabs_changeHandler);
@@ -205,7 +209,7 @@
 		/*		this.buttonPanel.addChild(this.button2);
 		this.buttonPanel.addChild(this.button3);*/
 		protected function button_triggeredHandler(event: Event): void {
-			bgImgLoader.source = atlas.getTexture("Sprite_2");
+			bgImgLoader.source = atlas.getTexture("ForHim0000");
 		}
 		//function button_TriggerHandle2(event: Event): void {
 		//	//sources changed
