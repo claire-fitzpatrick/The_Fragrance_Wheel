@@ -24,6 +24,7 @@
 	import starling.utils.AssetManager;
 	import flash.text.engine.TabAlignment;
 	import flash.text.engine.EastAsianJustifier;
+	import flash.display.Screen;
 
 
 	public class Main extends Screen {
@@ -162,6 +163,11 @@
 
 			this.height = this.stage.stageHeight;
 			this.width = this.stage.stageWidth;
+
+			var screenA: Screen = new Screen();
+			var screenB: Screen = new Screen();
+			var screenC: Screen = new Screen();
+			var screenD: Screen = new Screen();
 
 			tabBar = new TabBar();
 			tabBar.dataProvider = new ListCollection(
